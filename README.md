@@ -53,6 +53,42 @@ I started the project on my own and built the first version from scratch. I am n
 
 <br/>
 
+## 👀 Version 2 preview
+
+Screenshots of version 2 running locally (Next.js, React and Supabase). Version 2 is not live yet.
+
+<p align="center">
+  <img src="screenshots/v2/startsida.png" width="90%" alt="SmartValGuiden version 2 start page" />
+  <br/>
+  <sub>Start page with search, category overview and a live comparison of three phones</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/v2/katalog.png" width="90%" alt="Phone catalogue with filters in version 2" />
+  <br/>
+  <sub>Phone catalogue with filters for brand, screen size and screen type, plus sorting and grid or list view</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/v2/produktsida.png" width="90%" alt="Product page for Samsung Galaxy S24 Ultra in version 2" />
+  <br/>
+  <sub>Product page with key specifications, full specification list and available configurations</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/v2/jamforelse.png" width="90%" alt="Comparison of three phones in version 2" />
+  <br/>
+  <sub>Comparison of three phones: rows where the values differ are highlighted and missing data is shown as a dash</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/v2/startsida-mobil.png" width="300" alt="SmartValGuiden version 2 start page on mobile" />
+  <br/>
+  <sub>Start page on mobile (390 px wide)</sub>
+</p>
+
+<br/>
+
 ## 🔒 Security work
 
 Before the rebuild I carried out my own security audit of version 1 and fixed:
