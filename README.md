@@ -35,7 +35,7 @@ I started the project on my own and built the first version from scratch. I am n
 
 **Version 1 – live today**
 - 📱 Phone catalogue with search and price filters
-- ⚖️ Side-by-side comparison of two phones
+- ⚖️ Side-by-side comparison of up to three phones, with scores and specifications
 - 🔐 Admin panel with authentication for managing content
 - 🤖 AI integration to support content and buying guidance
 
