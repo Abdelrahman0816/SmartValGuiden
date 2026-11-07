@@ -15,6 +15,12 @@ A Swedish consumer-tech guide that helps people **understand, compare and choose
 
 <br/>
 
+<p align="center">
+  <img src="screenshots/startsida.jpg" width="90%" alt="SmartValGuiden start page" />
+</p>
+
+<br/>
+
 ## 📝 About the project
 
 Most comparison sites only compare prices. **SmartValGuiden** aims to help Swedish shoppers understand what actually differs between products, so they can make a confident choice.
@@ -38,6 +44,12 @@ I started the project on my own and built the first version from scratch. I am n
 - 🗂️ Product catalogue with filters and sorting
 - 📄 Dedicated product pages
 - ⚖️ Compare two or three products, with the selection stored in the URL so comparisons can be shared
+
+<p align="center">
+  <img src="screenshots/jamforelse.jpg" width="90%" alt="Side-by-side comparison of three phones" />
+  <br/>
+  <sub>Side-by-side comparison of three phones with scores, prices and specifications</sub>
+</p>
 
 <br/>
 
